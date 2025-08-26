@@ -12,16 +12,16 @@ export function BlogPreviewCard() {
         />
       </div>
       <div className="space-y-4">
-        <p className="inline-block bg-[#F4D04E] rounded text-gray-950 font-[family-name:var(--font-figtree)] font-extrabold text-[12px] leading-[150%] tracking-[0%] px-3 py-1">
+        <p className="inline-block bg-[#F4D04E] rounded text-gray-950 font-[family-name:var(--font-figtree)] font-extrabold text-[14px] leading-[150%] tracking-[0px] px-3 py-1">
           Learning
         </p>
-        <p className="text-gray-950 font-[family-name:var(--font-figtree)] font-medium text-[12px] leading-[150%] tracking-[0%]">
+        <p className="text-gray-950 font-[family-name:var(--font-figtree)] font-medium text-[14px] leading-[150%] tracking-[0px]">
           Published 21 Dec 2023
         </p>
-        <h1 className="text-gray-950 font-[family-name:var(--font-figtree)] font-extrabold text-[20px] leading-[150%] tracking-[0%]">
+        <h1 className="text-gray-950 font-[family-name:var(--font-figtree)] font-extrabold text-[24px] leading-[150%] tracking-[0px]">
           HTML & CSS foundations
         </h1>
-        <p className="text-gray-500 font-[family-name:var(--font-figtree)] font-medium text-[14px] leading-[150%] tracking-[0%]">
+        <p className="text-gray-500 font-[family-name:var(--font-figtree)] font-medium text-[16px] leading-[150%] tracking-[0px]">
           These languages are the backbone of every website, defining structure,
           content, and presentation.
         </p>
