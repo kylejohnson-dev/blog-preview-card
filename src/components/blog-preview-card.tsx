@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function BlogPreviewCard() {
   return (
-    <div className="max-w-[384px] bg-white rounded-[20px] drop-shadow-[8px_8px_0px_rgba(0,0,0,1.0)] space-y-6 p-6">
+    <div className="max-w-[384px] bg-white rounded-[20px] border border-gray-950 drop-shadow-[8px_8px_0px_rgba(0,0,0,1.0)] space-y-6 p-6">
       <div className="rounded-[10px] overflow-hidden">
         <Image
           src="/illustration-article.svg"
